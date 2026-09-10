@@ -944,6 +944,8 @@ then clone its structure. It uses the most modules.
 
 | Date | Change | Reason |
 |---|---|---|
+| 2026-09-10 | Built sub-industry page: EdTech Platforms (`/industries/education/edtech-platforms/`) on industry branch | User request |
+| 2026-09-08 | Built & published sub-industry page: Coaching Institutes (`/industries/education/coaching-institutes/`) | User request |
 | 2026-09-08 | Built & published sub-industry page: Colleges & Universities (`/industries/education/colleges-and-universities/`) | User request |
 | 2026-08-21 | Master spec created, consolidating four planning documents | Owner asked for one file to build from |
 | 2026-08-21 | Integration logo strip replaced with honest connector/webhook labels | Waplify ships two connectors. CLAUDE.md §15.3 rule 3 |
